@@ -52,19 +52,19 @@ streamlit run app/dashboard.py
 ## 📸 Screenshots
 
 ### Dashboard Home
-![Dashboard](images/dashboard_home.png)
+![](./images/dashboard_home.png)
 
 ### Prediction Result
-![Prediction](images/prediction_result.png)
+![](./images/prediction_result.png)
 
 ### Pie Chart
-![Pie](images/pie_chart.png)
+![](./images/pie_chart.png)
 
 ### Trend Graph
-![Trend](images/trend_graph.png)
+![](./images/trend_graph.png)
 
 ### Word Cloud
-![WordCloud](images/wordcloud.png)
+![](./images/wordcloud.png)
 
 💼 Industry Use Cases
 
