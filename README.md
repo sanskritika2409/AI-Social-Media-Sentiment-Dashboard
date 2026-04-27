@@ -49,16 +49,22 @@ Social-Media-Sentiment-Analysis-Dashboard/
 │── README.md
 ▶️ Run Project
 streamlit run app/dashboard.py
-📸 Screenshots
-Dashboard Home
+## 📸 Screenshots
 
-Prediction Result
+### Dashboard Home
+![Dashboard](images/dashboard_home.png)
 
-Pie Chart
+### Prediction Result
+![Prediction](images/prediction_result.png)
 
-Trend Graph
+### Pie Chart
+![Pie](images/pie_chart.png)
 
-Word Cloud
+### Trend Graph
+![Trend](images/trend_graph.png)
+
+### Word Cloud
+![WordCloud](images/wordcloud.png)
 
 💼 Industry Use Cases
 
