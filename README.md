@@ -4,13 +4,13 @@ A premium Machine Learning + NLP dashboard that analyzes social media comments/p
 
 ✅ Positive  
 ✅ Negative  
-✅ Neutral
+✅ Neutral  
 
 Built for portfolio, placements, internships, and GitHub proof of work.
 
 ---
 
-# 📌 Features
+## 📌 Features
 
 - Premium Black Theme Dashboard
 - Real-Time Sentiment Prediction
@@ -23,7 +23,7 @@ Built for portfolio, placements, internships, and GitHub proof of work.
 
 ---
 
-# 🧠 Tech Stack
+## 🧠 Tech Stack
 
 - Python
 - Pandas
@@ -31,13 +31,12 @@ Built for portfolio, placements, internships, and GitHub proof of work.
 - Plotly
 - Matplotlib
 - WordCloud
-- NLP Logic
 - VS Code
 - GitHub
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```bash
 Social-Media-Sentiment-Analysis-Dashboard/
@@ -48,4 +47,54 @@ Social-Media-Sentiment-Analysis-Dashboard/
 │── images/
 │── requirements.txt
 │── README.md
+▶️ Run Project
+streamlit run app/dashboard.py
+📸 Screenshots
+Dashboard Home
 
+Prediction Result
+
+Pie Chart
+
+Trend Graph
+
+Word Cloud
+
+💼 Industry Use Cases
+
+Used for:
+
+Customer Feedback Analysis
+Product Review Monitoring
+Campaign Sentiment Tracking
+Brand Reputation Management
+
+Companies like:
+
+Amazon
+Netflix
+Swiggy
+Zomato
+Banks
+Startups
+🎯 Learning Outcomes
+NLP Basics
+Sentiment Analysis
+Dashboard Building
+Data Visualization
+GitHub Project Deployment
+👩‍💻 Author
+
+Sanskritika Awasthi
+
+
+---
+
+# 🚀 AFTER SAVING, PUSH TO GITHUB
+
+Run these in terminal (**not inside README**):
+
+```bash
+git add README.md
+git commit -m "Cleaned README and fixed formatting"
+git push
