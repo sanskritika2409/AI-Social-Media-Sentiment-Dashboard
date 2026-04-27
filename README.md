@@ -52,19 +52,21 @@ streamlit run app/dashboard.py
 ## 📸 Screenshots
 
 ### Dashboard Home
-![](./images/dashboard_home.png)
+https://github.com/sanskritika2409/AI-Social-Media-Sentiment-Dashboard/blob/main/images/dashboard_home.png
 
 ### Prediction Result
-![](./images/prediction_result.png)
+https://github.com/sanskritika2409/AI-Social-Media-Sentiment-Dashboard/blob/main/images/prediction_result.png
 
 ### Pie Chart
-![](./images/pie_chart.png)
+https://github.com/sanskritika2409/AI-Social-Media-Sentiment-Dashboard/blob/main/images/pie_chart.png
 
 ### Trend Graph
-![](./images/trend_graph.png)
+https://github.com/sanskritika2409/AI-Social-Media-Sentiment-Dashboard/blob/main/images/trend_graph.png
 
 ### Word Cloud
-![](./images/wordcloud.png)
+https://github.com/sanskritika2409/AI-Social-Media-Sentiment-Dashboard/blob/main/images/wordcloud.png
+##project link
+https://github.com/sanskritika2409/AI-Social-Media-Sentiment-Dashboard/blob/main/images/wordcloud.png
 
 💼 Industry Use Cases
 
