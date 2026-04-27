@@ -52,21 +52,21 @@ streamlit run app/dashboard.py
 ## 📸 Screenshots
 
 ### Dashboard Home
-https://github.com/sanskritika2409/AI-Social-Media-Sentiment-Dashboard/blob/main/images/dashboard_home.png
+![Dashboard Home](https://raw.githubusercontent.com/sanskritika2409/AI-Social-Media-Sentiment-Dashboard/main/images/dashboard_home.png)
 
 ### Prediction Result
-https://github.com/sanskritika2409/AI-Social-Media-Sentiment-Dashboard/blob/main/images/prediction_result.png
+![Prediction Result](https://raw.githubusercontent.com/sanskritika2409/AI-Social-Media-Sentiment-Dashboard/main/images/prediction_result.png)
 
 ### Pie Chart
-https://github.com/sanskritika2409/AI-Social-Media-Sentiment-Dashboard/blob/main/images/pie_chart.png
+![Pie Chart](https://raw.githubusercontent.com/sanskritika2409/AI-Social-Media-Sentiment-Dashboard/main/images/pie_chart.png)
 
 ### Trend Graph
-https://github.com/sanskritika2409/AI-Social-Media-Sentiment-Dashboard/blob/main/images/trend_graph.png
+![Trend Graph](https://raw.githubusercontent.com/sanskritika2409/AI-Social-Media-Sentiment-Dashboard/main/images/trend_graph.png)
 
 ### Word Cloud
-https://github.com/sanskritika2409/AI-Social-Media-Sentiment-Dashboard/blob/main/images/wordcloud.png
+![Word Cloud](https://raw.githubusercontent.com/sanskritika2409/AI-Social-Media-Sentiment-Dashboard/main/images/wordcloud.png)
 ##project link
-https://github.com/sanskritika2409/AI-Social-Media-Sentiment-Dashboard/blob/main/images/wordcloud.png
+![Project Link](https://github.com/sanskritika2409/AI-Social-Media-Sentiment-Dashboard/blob/main/images/wordcloud.png)
 
 💼 Industry Use Cases
 
