@@ -49,17 +49,17 @@ Social-Media-Sentiment-Analysis-Dashboard/
 │── README.md
 ▶️ Run Project
 streamlit run app/dashboard.py
-📸 Screenshots Dashboard Home 
-![Dashboard](images/dashboard_home.png) 
+📸 Screenshots
+Dashboard Home
+
 Prediction Result
- ![Prediction](images/prediction_result.png)
-  Pie Chart
-   ![Pie](images/pie_chart.png) 
-   
-   Trend Graph
- ![Trend](images/trend_graph.png)
-   Word Cloud 
-    ![WordCloud](images/wordcloud.png)
+
+Pie Chart
+
+Trend Graph
+
+Word Cloud
+
 💼 Industry Use Cases
 
 Used for:
@@ -86,15 +86,3 @@ GitHub Project Deployment
 👩‍💻 Author
 
 Sanskritika Awasthi
-
-
----
-
-# 🚀 AFTER SAVING, PUSH TO GITHUB
-
-Run these in terminal (**not inside README**):
-
-```bash
-git add README.md
-git commit -m "Cleaned README and fixed formatting"
-git push
